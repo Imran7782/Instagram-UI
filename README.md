@@ -4,7 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter 
+![instagram UI](https://github.com/user-attachments/assets/dd8cfb5f-96b0-47f3-9d08-542587141c98)
+application.
 
 A few resources to get you started if this is your first Flutter project:
 
