@@ -1,10 +1,27 @@
-# INSTAGRAM PROFILE UI
+#📱 Instagram Profile Page UI – Flutter Project
+This project is a Flutter-based UI clone of the Instagram Profile Page. It replicates the layout and structure of a user's profile on Instagram, focusing on clean design, responsiveness, and modern aesthetics.
 
-A new Flutter project.
+#✨Features
+👤 Profile Header – Displays profile photo, username, bio, and website
 
-## Getting Started
+📊 Stats Section – Shows posts, followers, and following counts
 
-This project is a starting point for a Flutter application.
+✏️ Edit Profile Button – Styled button for editing user details
+
+🔄 Stories Highlights – Scrollable row of circular story highlights with captions
+
+🧩 Post Grid – Grid view of user photos
+
+☁️ Asset-Based Images – Uses locally stored or URL-based profile/post images
+
+🎯 Custom Icons – Mimics Instagram's icon set for a familiar look
+
+#🔧 Technologies Used
+Flutter & Dart – Cross-platform development
+
+Responsive Layout – Works well across various screen sizes (including iPhone 15)
+
+Custom Widgets – Modular, reusable UI components
 
 
 
