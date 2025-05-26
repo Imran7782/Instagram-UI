@@ -1,4 +1,4 @@
-# practice
+# INSTAGRAM PROFILE UI
 
 A new Flutter project.
 
